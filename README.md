@@ -1,4 +1,4 @@
-# awesome-mac-of-shaman
+# awesome-mac
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [Disk Inventory X](http://www.derlien.com/)
