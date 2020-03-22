@@ -5,3 +5,4 @@
 - [MenuMetersElCapitan](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)
 - [Surge](https://trello.com/b/qy4sDvxg/surge)
 - [Clipmenu](http://www.clipmenu.com/)
+- [Vanilla](https://matthewpalmer.net/vanilla/)
